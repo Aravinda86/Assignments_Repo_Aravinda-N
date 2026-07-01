@@ -5,8 +5,6 @@ public class Program4_LargestNumber {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int num = 1239456;
-		int large =0;
-		int temp = num;
 		int largest =0;
 		
 		while(num>0) {
